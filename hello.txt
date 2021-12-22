@@ -3,4 +3,5 @@
 main()
 {
 	printf("Hello Word");
+	printf("I am from DDU");
 }
